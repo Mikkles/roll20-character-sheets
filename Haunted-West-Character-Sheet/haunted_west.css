@@ -512,7 +512,18 @@ display: flex;
 .skilllabel {
     font-size: 12px;
     width: 190px !important;
+}
 
+.withtype{
+    vertical-align: -10px !important;
+
+}
+
+.skilltypebox{
+    /*width: 110px !important;*/
+    border-bottom: 1px solid #000;
+    margin-bottom: 2px;
+    
 }
 
 .skilltype {
